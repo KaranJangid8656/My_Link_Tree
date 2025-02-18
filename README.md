@@ -7,7 +7,7 @@ Welcome to my personal portfolio! This webpage displays my projects, contact inf
 - Social media links to GitHub, LinkedIn, Instagram, Twitter, and Email
 - A list of my personal projects 
 
-## Technologies Used
+## Technologies Used 
 
 - **HTML**
 - **CSS**
